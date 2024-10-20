@@ -1,0 +1,11 @@
+#Ant properties
+#Wed Apr 03 03:39:39 CEST 2024
+version.api=2211
+vendor=hybris
+group.id=de.hybris.platform
+name=bestandlesscustomerinterestsfacades
+description=bestandlesscustomerinterestsfacades
+builddate=20240403 0339
+releasedate=20240301 1714
+version=2211.21
+module.name=platform-module
