@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+ Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved.
+--><extensioninfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="extensioninfo.xsd">
+        	
+    
+    <extension abstractclassprefix="Generated" classprefix="Bestandlesscustomerinterestsocctests" jaloLogicFree="true" managername="BestandlesscustomerinterestsocctestsManager" managersuperclass="de.hybris.platform.jalo.extension.Extension" name="bestandlesscustomerinterestsocctests" usemaven="false">
+                		
+        
+        <requires-extension name="commercewebservicestests"/>
+                		
+	
+		
+        
+        <coremodule generated="true" manager="au.com.bestandless.customerinterestsocc.jalo.BestandlesscustomerinterestsocctestsManager" packageroot="au.com.bestandless.customerinterestsocc"/>
+                		
+        
+        	
+    
+    </extension>
+        
+
+</extensioninfo>
